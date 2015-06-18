@@ -195,7 +195,8 @@
     "subscribed_message": "You are now subscribed.",
     "available_font_families": [
       "open_sanslight",
-      "playfair_displayregular"
+      "playfair_displayregular",
+      "Lato-regular"
     ],
     "ga_token": "",
     "favicon": "images\/favicon.ico",
